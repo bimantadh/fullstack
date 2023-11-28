@@ -60,6 +60,6 @@ class Student:
         
 students = [
             
-            {"name":'Ram', "age":20, "mobile": 9810, "math_mark": 90 , "science_mark" : 95 },
+            
             {"name":'Ram', "age":20, "mobile": 9810, "math_mark": 90 , "science_mark" : 95 }
 ]
